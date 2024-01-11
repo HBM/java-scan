@@ -1,3 +1,6 @@
+# $${\color{red}MOVED}$$
+# https://github.com/hbkworld/java-scan
+
 # A Java implementation of the HBM device discovery protocol.
 
 [![Build Status](https://travis-ci.org/HBM/java-scan.svg?branch=master)](https://travis-ci.org/HBM/java-scan)
